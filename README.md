@@ -7,4 +7,4 @@ Swift Implementation of the classic puzzle game.
 * Landscape and portrait modes.
 
 ## Images
-[![Game ](./Images/Landscape.png)]
+![Game ](./Images/Landscape.png)
