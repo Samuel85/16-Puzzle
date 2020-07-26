@@ -2,7 +2,7 @@
 
 ## Info
 Swift Implementation of the classic puzzle game.
-## Basic features:
+## Basic features
 * Eight different puzzles.
 * Landscape and portrait modes.
 
