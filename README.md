@@ -6,5 +6,5 @@ Swift Implementation of the classic puzzle game.
 * Eight different puzzles.
 * Landscape and portrait modes.
 
-## Images
+## Screenshots
 ![Game ](./Images/Landscape.png)
